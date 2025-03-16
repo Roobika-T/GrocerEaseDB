@@ -1,1 +1,1 @@
-# Grocery-management-System
+GrocerEaseDB : A grocery store management, developed in PHP and MySQL . It has a strong database, real-time inventory management, and transaction processing built in, all of which are connected with phpMyAdmin and XAMPP for effective data handling.
